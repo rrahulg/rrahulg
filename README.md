@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul George</h1>
-<h3 align="center">Avid learner, focused on goals and ambitious to explore and inspire and share expertise with like minded folks</h3>
+<h3 align="center">I am an Avid learner, focused on goals and ambitious to explore and inspire and share expertise with like minded folks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrahulg&label=Profile%20views&color=0e75b6&style=flat" alt="rrahulg" /> </p>
 
